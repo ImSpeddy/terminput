@@ -6,7 +6,7 @@ Raw input inspired on Python's `input()` function, intended to get easier input 
 
 From **NPM**:
 
-`npm i TermInput`
+`npm i terminput`
 
 ## Syntax
 
