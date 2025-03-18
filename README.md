@@ -21,7 +21,7 @@ From **NPM**:
 ## Example
 
 ```
-const input = require('TermInput')
+const input = require('terminput')
 
 async function getInput() {
     const myInput = await input(); // Retrieves first input, no prompt
