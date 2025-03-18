@@ -1,18 +1,18 @@
 {
-  "name": "raw-input",
+  "name": "terminput",
   "version": "1.0.0",
-  "description": "Raw input for node.js",
+  "description": "Raw terminal input for node.js",
   "keywords": [
     "input",
-    "raw-input"
+    "terminput"
   ],
-  "homepage": "https://github.com/ImSpeddy/raw-input#readme",
+  "homepage": "https://github.com/ImSpeddy/terminput#readme",
   "bugs": {
-    "url": "https://github.com/ImSpeddy/raw-input/issues"
+    "url": "https://github.com/ImSpeddy/terminput/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ImSpeddy/raw-input.git"
+    "url": "git+https://github.com/ImSpeddy/terminput.git"
   },
   "license": "MIT",
   "author": "Ethan Mahlstedt <ethan.mahlstedt@hotmail.com>",

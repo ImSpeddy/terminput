@@ -1,4 +1,4 @@
-# raw-input
+# TermInput
 
 Raw input inspired on Python's `input()` function, intended to get easier input from the user.
 
@@ -6,11 +6,11 @@ Raw input inspired on Python's `input()` function, intended to get easier input 
 
 From **NPM**:
 
-`npm i raw-input`
+`npm i TermInput`
 
 ## Syntax
 
-`await input(prompt: string)`
+`await TermInput(prompt: string)`
 
 #
 
@@ -21,7 +21,7 @@ From **NPM**:
 ## Example
 
 ```
-const input = require('raw-input')
+const input = require('TermInput')
 
 async function getInput() {
     const myInput = await input(); // Retrieves first input, no prompt
