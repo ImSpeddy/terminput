@@ -1,0 +1,25 @@
+{
+  "name": "raw-input",
+  "version": "1.0.0",
+  "description": "Raw input for node.js",
+  "keywords": [
+    "input",
+    "raw-input"
+  ],
+  "homepage": "https://github.com/ImSpeddy/raw-input#readme",
+  "bugs": {
+    "url": "https://github.com/ImSpeddy/raw-input/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImSpeddy/raw-input.git"
+  },
+  "license": "MIT",
+  "author": "Ethan Mahlstedt <ethan.mahlstedt@hotmail.com>",
+  "type": "commonjs",
+  "main": "./out/index.js",
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "typescript": "^5.8.2"
+  }
+}
