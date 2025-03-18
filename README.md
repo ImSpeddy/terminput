@@ -10,7 +10,7 @@ From **NPM**:
 
 ## Syntax
 
-`await TermInput(prompt: string)`
+```await TermInput(prompt: string) // Returns a string with an input provided by the user```
 
 #
 
