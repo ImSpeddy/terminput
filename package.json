@@ -1,6 +1,6 @@
 {
   "name": "terminput",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Raw terminal input for node.js",
   "keywords": [
     "input",
